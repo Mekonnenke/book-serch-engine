@@ -22,11 +22,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Link 
 github: https://github.com/Mekonnenke/book-serch-engine
-## Deployed Application 
-
-[Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)<br />
-![Image](https://github.com/izabelacloud/Book-Search-Engine/blob/master/mern.gif?raw=true)<br />
-
 
 ## Usage
 
